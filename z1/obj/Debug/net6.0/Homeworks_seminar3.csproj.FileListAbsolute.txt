@@ -1,0 +1,15 @@
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\bin\Debug\net6.0\Homeworks_seminar3.exe
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\bin\Debug\net6.0\Homeworks_seminar3.deps.json
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\bin\Debug\net6.0\Homeworks_seminar3.runtimeconfig.json
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\bin\Debug\net6.0\Homeworks_seminar3.dll
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\bin\Debug\net6.0\Homeworks_seminar3.pdb
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.csproj.AssemblyReference.cache
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.AssemblyInfoInputs.cache
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.AssemblyInfo.cs
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.csproj.CoreCompileInputs.cache
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.dll
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\refint\Homeworks_seminar3.dll
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.pdb
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\Homeworks_seminar3.genruntimeconfig.cache
+C:\Users\DeX\Desktop\c#\Homeworks_seminar3\z1\obj\Debug\net6.0\ref\Homeworks_seminar3.dll
